@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-11T04:02:59 IST" name="Command line suite" finished-at="2021-08-11T04:02:59 IST" duration-ms="86">
+    <groups>
+    </groups>
+    <test started-at="2021-08-11T04:02:59 IST" name="Command line test" finished-at="2021-08-11T04:02:59 IST" duration-ms="86">
+      <class name="SeleniumMVN.restApiTest">
+        <test-method signature="Postjira()[pri:0, instance:SeleniumMVN.restApiTest@3d8314f0]" started-at="2021-08-11T04:02:59 IST" name="Postjira" finished-at="2021-08-11T04:02:59 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Postjira -->
+        <test-method signature="deleteTwitter()[pri:0, instance:SeleniumMVN.restApiTest@3d8314f0]" started-at="2021-08-11T04:02:59 IST" name="deleteTwitter" finished-at="2021-08-11T04:02:59 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+      </class> <!-- SeleniumMVN.restApiTest -->
+      <class name="SeleniumMVN.appiumTest">
+        <test-method signature="android()[pri:0, instance:SeleniumMVN.appiumTest@50de0926]" started-at="2021-08-11T04:02:59 IST" name="android" finished-at="2021-08-11T04:02:59 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- android -->
+        <test-method signature="iosapp()[pri:0, instance:SeleniumMVN.appiumTest@50de0926]" started-at="2021-08-11T04:02:59 IST" name="iosapp" finished-at="2021-08-11T04:02:59 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iosapp -->
+      </class> <!-- SeleniumMVN.appiumTest -->
+      <class name="SeleniumMVN.seleniumTest">
+        <test-method signature="WebElementUi()[pri:0, instance:SeleniumMVN.seleniumTest@2df32bf7]" started-at="2021-08-11T04:02:59 IST" name="WebElementUi" finished-at="2021-08-11T04:02:59 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebElementUi -->
+        <test-method signature="browserAutomation()[pri:0, instance:SeleniumMVN.seleniumTest@2df32bf7]" started-at="2021-08-11T04:02:59 IST" name="browserAutomation" finished-at="2021-08-11T04:02:59 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+      </class> <!-- SeleniumMVN.seleniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

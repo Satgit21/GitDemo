@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-10T03:46:14 IST" name="Default suite" finished-at="2021-08-10T03:46:14 IST" duration-ms="95">
+    <groups>
+    </groups>
+    <test started-at="2021-08-10T03:46:14 IST" name="Default test" finished-at="2021-08-10T03:46:14 IST" duration-ms="95">
+      <class name="SeleniumMVN.appiumTest">
+        <test-method signature="android()[pri:0, instance:SeleniumMVN.appiumTest@a3d8174]" started-at="2021-08-10T03:46:14 IST" name="android" finished-at="2021-08-10T03:46:14 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- android -->
+        <test-method signature="iosapp()[pri:0, instance:SeleniumMVN.appiumTest@a3d8174]" started-at="2021-08-10T03:46:14 IST" name="iosapp" finished-at="2021-08-10T03:46:14 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iosapp -->
+      </class> <!-- SeleniumMVN.appiumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
