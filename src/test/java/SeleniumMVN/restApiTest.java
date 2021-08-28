@@ -21,6 +21,6 @@ public class restApiTest {
 	@Test
 	public void develop()
 	{
-		System.out.println("develop");
+		System.out.println("develop architech1");
 	}
 }
