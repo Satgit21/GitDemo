@@ -9,7 +9,7 @@ public class restApiTest {
 	{
 		System.out.println("Postjira");	
 		System.out.println("Postjira1");	
-		System.out.println("Postjira2");	
+	
 	}
 	
 	@Test
