@@ -17,4 +17,10 @@ public class restApiTest {
 	{
 		System.out.println("deleteTwitter");
 	}
+	
+	@Test
+	public void develop()
+	{
+		System.out.println("develop");
+	}
 }
